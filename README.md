@@ -8,12 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![alt text](http://url/to/img.png)
+
+
 ```markdown
 Syntax highlighted code block
 
 https://renqinss.github.io/homepage/
-
-![alt text](http://url/to/img.png)
 
 ![pic1](pic1.png)
 
