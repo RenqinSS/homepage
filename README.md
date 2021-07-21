@@ -17,8 +17,6 @@ Syntax highlighted code block
 
 https://renqinss.github.io/homepage/
 
-![pic1](pic1.png)
-
 # Header 1
 ## Header 2
 ### Header 3
