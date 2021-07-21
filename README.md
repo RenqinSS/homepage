@@ -13,6 +13,7 @@ Syntax highlighted code block
 
 https://renqinss.github.io/homepage/
 
+![alt text](http://url/to/img.png)
 
 ![pic1](pic1.png)
 
