@@ -1,4 +1,4 @@
-![alt text](http://url/pic1.png)
+![alt text](https://github.com/renqinss/homepage/blob/master/image.jpg?raw=true)
 
 
 
