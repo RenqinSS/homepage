@@ -1,4 +1,4 @@
-![alt text](http://url/to/pic1.png)
+![alt text](http://url/pic1.png)
 
 
 
