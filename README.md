@@ -1,4 +1,4 @@
-![alt text](https://github.com/renqinss/homepage/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/RenqinSS/homepage/blob/main/pic1.png?raw=true)
 
 
 
